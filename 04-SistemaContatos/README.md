@@ -112,7 +112,7 @@ O sistema inicia com dois contatos cadastrados para facilitar os testes:
 
 | Nome | Telefone |
 |------|-----------|
-| Christian | (11) 93312-0723 |
+| Christian | (11) 98569-9375 |
 | Elaine | (11) 93458-2734 |
 
 ---
