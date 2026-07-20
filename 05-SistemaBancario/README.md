@@ -56,8 +56,6 @@ src
 │
 ├── service
 │   └── Banco.java
-│
-└── exception
 ```
 
 ---
